@@ -1,0 +1,795 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{apa}
+    \entry{Allen:etal:2006}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b911b65f747f3b1c2c3ff3a874e22662}{Allen}{A\bibinitperiod}{R.\bibnamedelimi J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=66d270083eeb670b2154591d3962da8a}{Baddeley}{B\bibinitperiod}{A.\bibnamedelimi D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b25a176b24d154f7be3d9827a2afb976}{Hitch}{H\bibinitperiod}{G.\bibnamedelimi J}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b911b65f747f3b1c2c3ff3a874e22662}{Allen}{A\bibinitperiod}{R.\bibnamedelimi J}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=66d270083eeb670b2154591d3962da8a}{Baddeley}{B\bibinitperiod}{A.\bibnamedelimi D}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b25a176b24d154f7be3d9827a2afb976}{Hitch}{H\bibinitperiod}{G.\bibnamedelimi J}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f04e7a59d54734cdd959796d98c72f85}
+      \strng{fullhash}{395abf422229389a64558ebd75fc820b}
+      \field{sortinit}{A}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Is the binding of visual features in working memory resource-demanding?}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{title}{Is the binding of visual features in working memory resource-demanding?}
+      \field{volume}{135}
+      \field{year}{2006}
+      \field{pages}{298\bibrangedash 313}
+    \endentry
+    \entry{Baddeley:1986}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=4024a7e6129df6cf2c3c0be8371f80c2}{Baddeley}{B\bibinitperiod}{A.\bibnamedelimi D.}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4024a7e6129df6cf2c3c0be8371f80c2}{Baddeley}{B\bibinitperiod}{A.\bibnamedelimi D.}{A\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford, England}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{4024a7e6129df6cf2c3c0be8371f80c2}
+      \strng{fullhash}{4024a7e6129df6cf2c3c0be8371f80c2}
+      \field{sortinit}{B}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Working memory}
+      \field{title}{Working memory}
+      \field{year}{1986}
+    \endentry
+    \entry{Bamber:1979}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=75ab39d68ff7d4ee46d25154b017c3a2}{Bamber}{B\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=75ab39d68ff7d4ee46d25154b017c3a2}{Bamber}{B\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{75ab39d68ff7d4ee46d25154b017c3a2}
+      \strng{fullhash}{75ab39d68ff7d4ee46d25154b017c3a2}
+      \field{sortinit}{B}
+      \field{labelyear}{1979}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{State trace analysis {A} method of testing simple theories of causation}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{State trace analysis {A} method of testing simple theories of causation}
+      \field{volume}{19}
+      \field{year}{1979}
+      \field{pages}{137\bibrangedash 181}
+      \verb{file}
+      \verb Bamber:1979.pdf
+      \endverb
+    \endentry
+    \entry{Brainard:1997}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=9139ed6ff956b92b2c8b815541a945fd}{Brainard}{B\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9139ed6ff956b92b2c8b815541a945fd}{Brainard}{B\bibinitperiod}{D.\bibnamedelimi H.}{D\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9139ed6ff956b92b2c8b815541a945fd}
+      \strng{fullhash}{9139ed6ff956b92b2c8b815541a945fd}
+      \field{sortinit}{B}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{The {P}sychophysics {T}oolbox}
+      \field{journaltitle}{Spatial Vision}
+      \field{title}{The {P}sychophysics {T}oolbox}
+      \field{volume}{10}
+      \field{year}{1997}
+      \field{pages}{433\bibrangedash 436}
+    \endentry
+    \entry{Brandimonte:etal:1992}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=0de4d308f30747a845fc973536380416}{Brandimonte}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7508dd10129af3978e691ac4bca4b6b0}{Hitch}{H\bibinitperiod}{G.\bibnamedelimi J.}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=860101d18f548446826138e93122cc41}{Bishop}{B\bibinitperiod}{D.\bibnamedelimi V.\bibnamedelimi M.}{D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=0de4d308f30747a845fc973536380416}{Brandimonte}{B\bibinitperiod}{M.\bibnamedelimi A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7508dd10129af3978e691ac4bca4b6b0}{Hitch}{H\bibinitperiod}{G.\bibnamedelimi J.}{G\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=860101d18f548446826138e93122cc41}{Bishop}{B\bibinitperiod}{D.\bibnamedelimi V.\bibnamedelimi M.}{D\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9718a13fe4c17878a5d0e329e91e9409}
+      \strng{fullhash}{fadc740010eba5cc1161f79312f76905}
+      \field{sortinit}{B}
+      \field{labelyear}{1992}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Verbal recoding of visual stimuli impairs mental image transformations}
+      \field{journaltitle}{Memory {\&} Cognition}
+      \field{number}{4}
+      \field{title}{Verbal recoding of visual stimuli impairs mental image transformations}
+      \field{volume}{20}
+      \field{year}{1992}
+      \field{pages}{449\bibrangedash 455}
+    \endentry
+    \entry{Brockmole:etal:2008}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=03e0e3e4b7c2d2f4264be51c4b4f8638}{Brockmole}{B\bibinitperiod}{James\bibnamedelima R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=67a6bb4439f4e9b69f1e0cf7680a8f1f}{Parra}{P\bibinitperiod}{Mario\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=33a239dec5b53b7e0e15fa28092d34da}{Sala}{S\bibinitperiod}{Sergio\bibnamedelima Della}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=801f63258911944b7188451a0d1526ea}{Logie}{L\bibinitperiod}{Robert\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=03e0e3e4b7c2d2f4264be51c4b4f8638}{Brockmole}{B\bibinitperiod}{James\bibnamedelima R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=67a6bb4439f4e9b69f1e0cf7680a8f1f}{Parra}{P\bibinitperiod}{Mario\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=33a239dec5b53b7e0e15fa28092d34da}{Sala}{S\bibinitperiod}{Sergio\bibnamedelima Della}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=801f63258911944b7188451a0d1526ea}{Logie}{L\bibinitperiod}{Robert\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e5ed0b84d840dadb04b6e26d7e20e09f}
+      \strng{fullhash}{5c34ea19817c9d1c7989ccf61f78413f}
+      \field{sortinit}{B}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Do binding deficits account for age-related decline in visual working memory?}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{number}{3}
+      \field{title}{Do binding deficits account for age-related decline in visual working memory?}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{543\bibrangedash 547}
+      \keyw{Age Differences,binding deficits,Memory Disorders,Short Term Memory,visual material,Visual Memory,visual working memory decline}
+    \endentry
+    \entry{Cowan:etal:2005}{article}{}
+      \name{labelname}{7}{}{%
+        {{uniquename=2,hash=91fd351d1147860f05d523feb01400b7}{Cowan}{C\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=23754ec62330166e00cb9b97ecd011ab}{Elliott}{E\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a71434c4091eb03a83ce1aa0143652d7}{Saults}{S\bibinitperiod}{J.\bibnamedelimi S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d89912099b141540e335ce6853f2cc2b}{Morey}{M\bibinitperiod}{C.\bibnamedelimi C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d078d0290d3e048f55e38129f5bacb45}{Mattox}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=198035a92768ae6f69f660911b53c9a7}{Hismjatullina}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=626d3747f118e56eadfa57d1621458ce}{Conway}{C\bibinitperiod}{A.R.A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{7}{}{%
+        {{uniquename=2,hash=91fd351d1147860f05d523feb01400b7}{Cowan}{C\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=23754ec62330166e00cb9b97ecd011ab}{Elliott}{E\bibinitperiod}{E.\bibnamedelimi M.}{E\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a71434c4091eb03a83ce1aa0143652d7}{Saults}{S\bibinitperiod}{J.\bibnamedelimi S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d89912099b141540e335ce6853f2cc2b}{Morey}{M\bibinitperiod}{C.\bibnamedelimi C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d078d0290d3e048f55e38129f5bacb45}{Mattox}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=198035a92768ae6f69f660911b53c9a7}{Hismjatullina}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=626d3747f118e56eadfa57d1621458ce}{Conway}{C\bibinitperiod}{A.R.A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{93f2733531fddf3039ade984c21adc0a}
+      \strng{fullhash}{e563f822e4fee4d86efec107e757f342}
+      \field{sortinit}{C}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{On the capacity of attention: Its estimation and its role in working memory and cognitive aptitudes}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{title}{On the capacity of attention: Its estimation and its role in working memory and cognitive aptitudes}
+      \field{volume}{51}
+      \field{year}{2005}
+      \field{pages}{42\bibrangedash 100}
+      \verb{file}
+      \verb Cowan:etal:2005.pdf
+      \endverb
+    \endentry
+    \entry{Davis-Stober:etal:inpress}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=1ead47cf55de1366102a0b9b897ae259}{Davis-Stober}{D\bibinithyphendelim S\bibinitperiod}{Clintin}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c8ccd89b02c0469355258d32916e3403}{Heathcote}{H\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dde6557a7c0a80badcbabd7d5c436471}{Morey}{M\bibinitperiod}{Richard\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1ead47cf55de1366102a0b9b897ae259}{Davis-Stober}{D\bibinithyphendelim S\bibinitperiod}{Clintin}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c8ccd89b02c0469355258d32916e3403}{Heathcote}{H\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dde6557a7c0a80badcbabd7d5c436471}{Morey}{M\bibinitperiod}{Richard\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ecd5961cc70040a909ed66ec6cebdf85}
+      \strng{fullhash}{0b5e063bc2ba25e78eb3b14480d51048}
+      \field{sortinit}{D}
+      \field{labelyear}{in press}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Bayes factors for state-trace analysis}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{Bayes factors for state-trace analysis}
+      \field{year}{in press}
+    \endentry
+    \entry{Delvenne:Bruyer:2004}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=2c2afbea0e9cf326152485ddf901a81b}{Delvenne}{D\bibinitperiod}{J.\bibnamedelimi F.}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ccbd80d40b9a706fb8053c5bc596ef4e}{Bruyer}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2c2afbea0e9cf326152485ddf901a81b}{Delvenne}{D\bibinitperiod}{J.\bibnamedelimi F.}{J\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ccbd80d40b9a706fb8053c5bc596ef4e}{Bruyer}{B\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2329d105bde95bc8dd72697a06f1c302}
+      \strng{fullhash}{2329d105bde95bc8dd72697a06f1c302}
+      \field{sortinit}{D}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Does visual short-term memory store bound features?}
+      \field{journaltitle}{Visual Cognition}
+      \field{number}{1}
+      \field{title}{Does visual short-term memory store bound features?}
+      \field{volume}{11}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 27}
+    \endentry
+    \entry{Hollingworth:Rasmussen:2010}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=0d7f4669c50d07efb42d394a5d9bb38d}{Hollingworth}{H\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0db5b58f026c984ecc86a87b7ef39bf3}{Rasmussen}{R\bibinitperiod}{Ian\bibnamedelima P.}{I\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0d7f4669c50d07efb42d394a5d9bb38d}{Hollingworth}{H\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0db5b58f026c984ecc86a87b7ef39bf3}{Rasmussen}{R\bibinitperiod}{Ian\bibnamedelima P.}{I\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{94cfc97d3ea6e488a89a540da7628021}
+      \strng{fullhash}{94cfc97d3ea6e488a89a540da7628021}
+      \field{sortinit}{H}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Binding objects to locations: The relationship between object files and visual working memory.}
+      \field{journaltitle}{Journal of Experimental Psychology: Human Perception and Performance}
+      \field{number}{3}
+      \field{title}{Binding objects to locations: The relationship between object files and visual working memory.}
+      \field{volume}{36}
+      \field{year}{2010}
+      \field{pages}{543\bibrangedash 564}
+    \endentry
+    \entry{Kleiner:etal:2007}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=eddece6c8dd8fbeb38d0dc6400af2557}{Kleiner}{K\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8475e55a65de181fc811a2184e652885}{Brainard}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ac4168f6df2824d23f239ef6bdc3e630}{Pelli}{P\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=eddece6c8dd8fbeb38d0dc6400af2557}{Kleiner}{K\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8475e55a65de181fc811a2184e652885}{Brainard}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ac4168f6df2824d23f239ef6bdc3e630}{Pelli}{P\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{de66f77db23649495f8b761e66a94970}
+      \strng{fullhash}{06a87d7f899575021f130dfea4a72b8e}
+      \field{sortinit}{K}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{What's new in {P}sychtoolbox-3?}
+      \field{journaltitle}{Perception}
+      \field{note}{ECVP Abstract Supplement}
+      \field{title}{What's new in {P}sychtoolbox-3?}
+      \field{volume}{36}
+      \field{year}{2007}
+    \endentry
+    \entry{Levy:1971}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=22e03a9df5593d8b5d30d8a8cf0c94d9}{Levy}{L\bibinitperiod}{Betty\bibnamedelima Ann}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=22e03a9df5593d8b5d30d8a8cf0c94d9}{Levy}{L\bibinitperiod}{Betty\bibnamedelima Ann}{B\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{22e03a9df5593d8b5d30d8a8cf0c94d9}
+      \strng{fullhash}{22e03a9df5593d8b5d30d8a8cf0c94d9}
+      \field{sortinit}{L}
+      \field{labelyear}{1971}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Role of Articulation in Auditory and Visual Short-Term Memory}
+      \field{journaltitle}{Journal of Verbal Learning and Verbal Behavior}
+      \field{title}{Role of Articulation in Auditory and Visual Short-Term Memory}
+      \field{volume}{10}
+      \field{year}{1971}
+      \field{pages}{123\bibrangedash 132}
+    \endentry
+    \entry{Logie:etal:2009}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=801f63258911944b7188451a0d1526ea}{Logie}{L\bibinitperiod}{Robert\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=03e0e3e4b7c2d2f4264be51c4b4f8638}{Brockmole}{B\bibinitperiod}{James\bibnamedelima R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ef6f0a654b09afdf5722fb8d4178ce08}{Vandenbroucke}{V\bibinitperiod}{Annelinde\bibnamedelimb R.\bibnamedelimi E.}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=801f63258911944b7188451a0d1526ea}{Logie}{L\bibinitperiod}{Robert\bibnamedelima H.}{R\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=03e0e3e4b7c2d2f4264be51c4b4f8638}{Brockmole}{B\bibinitperiod}{James\bibnamedelima R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ef6f0a654b09afdf5722fb8d4178ce08}{Vandenbroucke}{V\bibinitperiod}{Annelinde\bibnamedelimb R.\bibnamedelimi E.}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cea0dd5a30faeae7ebe43ae05bb62eba}
+      \strng{fullhash}{fffd641145e3e98d79295fc454bb90cc}
+      \field{sortinit}{L}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Bound feature combinations in visual short-term memory are fragile but influence long-term learning.}
+      \field{journaltitle}{Visual Cognition}
+      \field{number}{1}
+      \field{title}{Bound feature combinations in visual short-term memory are fragile but influence long-term learning.}
+      \field{volume}{17}
+      \field{year}{2009}
+      \field{pages}{160\bibrangedash 179}
+      \keyw{bound features,Cued Recall,Long Term Memory,long-term learning,Observers,residual memory,Short Term Memory,Visual Memory,Visual Perception,visual short-term memory}
+    \endentry
+    \entry{Luria:etal:2010}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=1092a860de8b070d61c20e29888ef40e}{Luria}{L\bibinitperiod}{Roy}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2252692b73c6d489897b8d2e26a935b1}{Sessa}{S\bibinitperiod}{Paola}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=45e874f9e76544e3a34ddeed23bdfc75}{Gotler}{G\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7ebe002de5280cae23290b14e3c4be16}{Jolic{\oe}ur}{J\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de3871d7734973bbaa3c861ceea22df3}{{Dell'Acqua}}{D\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=1092a860de8b070d61c20e29888ef40e}{Luria}{L\bibinitperiod}{Roy}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2252692b73c6d489897b8d2e26a935b1}{Sessa}{S\bibinitperiod}{Paola}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=45e874f9e76544e3a34ddeed23bdfc75}{Gotler}{G\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7ebe002de5280cae23290b14e3c4be16}{Jolic{\oe}ur}{J\bibinitperiod}{Pierre}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de3871d7734973bbaa3c861ceea22df3}{{Dell'Acqua}}{D\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0480facf33b5816ed266c523e5836c1d}
+      \strng{fullhash}{8b1fa769d9e877c6568cf3db4ae059fd}
+      \field{sortinit}{L}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Visual Short-term Memory Capacity for Simple and Complex Objects}
+      \field{journaltitle}{Journal of Cognitive Neuroscience}
+      \field{number}{3}
+      \field{title}{Visual Short-term Memory Capacity for Simple and Complex Objects}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{pages}{496\bibrangedash 512}
+    \endentry
+    \entry{Makovski:Jiang:2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=ec5998c82ba78593c953abd355208b8b}{Makovski}{M\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35c27c925bc172c198fa417d1a1ed4ff}{Jiang}{J\bibinitperiod}{Yuhong\bibnamedelima V.}{Y\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ec5998c82ba78593c953abd355208b8b}{Makovski}{M\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35c27c925bc172c198fa417d1a1ed4ff}{Jiang}{J\bibinitperiod}{Yuhong\bibnamedelima V.}{Y\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{25ea48e7401597e3b769d6abe5d3dd2d}
+      \strng{fullhash}{25ea48e7401597e3b769d6abe5d3dd2d}
+      \field{sortinit}{M}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Indirect assessment of visual working memory for simple and complex objects}
+      \field{journaltitle}{Memory \& Cognition}
+      \field{number}{6}
+      \field{title}{Indirect assessment of visual working memory for simple and complex objects}
+      \field{volume}{36}
+      \field{year}{2008}
+      \field{pages}{1132\bibrangedash 1143}
+    \endentry
+    \entry{Makovski:etal:2008}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=ec5998c82ba78593c953abd355208b8b}{Makovski}{M\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ab2dbfdf0eafe4309d17fd52890d585b}{Sussman}{S\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35c27c925bc172c198fa417d1a1ed4ff}{Jiang}{J\bibinitperiod}{Yuhong\bibnamedelima V.}{Y\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=ec5998c82ba78593c953abd355208b8b}{Makovski}{M\bibinitperiod}{Tal}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ab2dbfdf0eafe4309d17fd52890d585b}{Sussman}{S\bibinitperiod}{Rachel}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35c27c925bc172c198fa417d1a1ed4ff}{Jiang}{J\bibinitperiod}{Yuhong\bibnamedelima V.}{Y\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{fd347bcaafdb902b4805368109586f0d}
+      \strng{fullhash}{2b29178e138351777cb171047c99f5f4}
+      \field{sortinit}{M}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Orienting attention in visual working memory reduces interference from memory probes.}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{number}{2}
+      \field{title}{Orienting attention in visual working memory reduces interference from memory probes.}
+      \field{volume}{34}
+      \field{year}{2008}
+      \field{pages}{369\bibrangedash 380}
+    \endentry
+    \entry{Mate:etal:2012}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=b77c7d6a72fe9bd65ec39915efd338b9}{Mate}{M\bibinitperiod}{Judit}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8cf2130c4cefa22cffb40d94e60ae3b8}{Allen}{A\bibinitperiod}{Richard\bibnamedelima J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb6b144eb4424272536ebbac4d84511b}{Baqu{\'e}s}{B\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=b77c7d6a72fe9bd65ec39915efd338b9}{Mate}{M\bibinitperiod}{Judit}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8cf2130c4cefa22cffb40d94e60ae3b8}{Allen}{A\bibinitperiod}{Richard\bibnamedelima J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cb6b144eb4424272536ebbac4d84511b}{Baqu{\'e}s}{B\bibinitperiod}{Josep}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b0e0a7b64372be7759329c2a0efbf30f}
+      \strng{fullhash}{44401b8b0477376dfe7961622a0e94fd}
+      \field{sortinit}{M}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{What you say matters: Exploring visual-verbal interactions in visual working memory}
+      \field{journaltitle}{The Quarterly Journal of Experimental Psychology}
+      \field{number}{3}
+      \field{title}{What you say matters: Exploring visual-verbal interactions in visual working memory}
+      \field{volume}{65}
+      \field{year}{2012}
+      \field{pages}{395\bibrangedash 400}
+    \endentry
+    \entry{MATLAB:2011}{book}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=8f6823abd383a341f0d78ef38829bbbb}{MATLAB}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8f6823abd383a341f0d78ef38829bbbb}{MATLAB}{M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Natick, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {The MathWorks Inc.}%
+      }
+      \strng{namehash}{8f6823abd383a341f0d78ef38829bbbb}
+      \strng{fullhash}{8f6823abd383a341f0d78ef38829bbbb}
+      \field{sortinit}{M}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{{Version 7.13.0 (R2011b)}}
+      \field{title}{{Version 7.13.0 (R2011b)}}
+      \field{year}{2011}
+    \endentry
+    \entry{Matsukura:Hollingworth:2011}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=fd3c904443cca867e348a44dd150ca78}{Matsukura}{M\bibinitperiod}{Michi}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0d7f4669c50d07efb42d394a5d9bb38d}{Hollingworth}{H\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=fd3c904443cca867e348a44dd150ca78}{Matsukura}{M\bibinitperiod}{Michi}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0d7f4669c50d07efb42d394a5d9bb38d}{Hollingworth}{H\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3e6c016a0e893cb2fc14bd4adc65ff7b}
+      \strng{fullhash}{3e6c016a0e893cb2fc14bd4adc65ff7b}
+      \field{sortinit}{M}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Does visual short-term memory have a high-capacity stage?}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{number}{6}
+      \field{title}{Does visual short-term memory have a high-capacity stage?}
+      \field{volume}{18}
+      \field{year}{2011}
+      \field{pages}{1098\bibrangedash 1104}
+    \endentry
+    \entry{Morey:Cowan:2004}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=5e77b532a95cc63420371261624f1387}{Morey}{M\bibinitperiod}{Candice\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=48e09c307747472c424dcc6ffd53405f}{Cowan}{C\bibinitperiod}{Nelson}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=5e77b532a95cc63420371261624f1387}{Morey}{M\bibinitperiod}{Candice\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=48e09c307747472c424dcc6ffd53405f}{Cowan}{C\bibinitperiod}{Nelson}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d7bc2082b37c683e86478b9f20adf9db}
+      \strng{fullhash}{d7bc2082b37c683e86478b9f20adf9db}
+      \field{sortinit}{M}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{When visual and verbal memories compete: {E}vidence of cross-domain limits in working memory}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{title}{When visual and verbal memories compete: {E}vidence of cross-domain limits in working memory}
+      \field{volume}{11}
+      \field{year}{2004}
+      \field{pages}{296\bibrangedash 301}
+    \endentry
+    \entry{Morey:Cowan:2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=1,hash=5e77b532a95cc63420371261624f1387}{Morey}{M\bibinitperiod}{Candice\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=48e09c307747472c424dcc6ffd53405f}{Cowan}{C\bibinitperiod}{Nelson}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=1,hash=5e77b532a95cc63420371261624f1387}{Morey}{M\bibinitperiod}{Candice\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=48e09c307747472c424dcc6ffd53405f}{Cowan}{C\bibinitperiod}{Nelson}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d7bc2082b37c683e86478b9f20adf9db}
+      \strng{fullhash}{d7bc2082b37c683e86478b9f20adf9db}
+      \field{sortinit}{M}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{When Do Visual and Verbal Memories Conflict? {T}he Importance of Working-Memory Load and Retrieval}
+      \field{journaltitle}{Journal of Experimental Psychology: Learning, Memory, and Cognition}
+      \field{title}{When Do Visual and Verbal Memories Conflict? {T}he Importance of Working-Memory Load and Retrieval}
+      \field{volume}{31}
+      \field{year}{2005}
+      \field{pages}{703\bibrangedash 713}
+      \verb{file}
+      \verb Morey:Cowan:2005.pdf
+      \endverb
+    \endentry
+    \entry{Morey:2011}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=1,hash=dde6557a7c0a80badcbabd7d5c436471}{Morey}{M\bibinitperiod}{Richard\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=dde6557a7c0a80badcbabd7d5c436471}{Morey}{M\bibinitperiod}{Richard\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dde6557a7c0a80badcbabd7d5c436471}
+      \strng{fullhash}{dde6557a7c0a80badcbabd7d5c436471}
+      \field{sortinit}{M}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{A Hierarchical {B}ayesian model for the measurement of working memory capacity}
+      \field{journaltitle}{Journal of Mathematical Psychology}
+      \field{title}{A Hierarchical {B}ayesian model for the measurement of working memory capacity}
+      \field{volume}{55}
+      \field{year}{2011}
+      \field{pages}{8\bibrangedash 24}
+      \verb{file}
+      \verb Morey:2011.pdf
+      \endverb
+    \endentry
+    \entry{Murray:1965}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=6f8e935f0dbed197b004aa09a3095f63}{Murray}{M\bibinitperiod}{D.\bibnamedelimi J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6f8e935f0dbed197b004aa09a3095f63}{Murray}{M\bibinitperiod}{D.\bibnamedelimi J.}{D\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6f8e935f0dbed197b004aa09a3095f63}
+      \strng{fullhash}{6f8e935f0dbed197b004aa09a3095f63}
+      \field{sortinit}{M}
+      \field{labelyear}{1965}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Vocalization-at-presentation and immediate recall, with varying presentation-rates}
+      \field{journaltitle}{Quarterly Journal of Experimental Psychology}
+      \field{title}{Vocalization-at-presentation and immediate recall, with varying presentation-rates}
+      \field{volume}{17}
+      \field{year}{1965}
+      \field{pages}{47\bibrangedash 56}
+    \endentry
+    \entry{Pelli:1997}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=bcdac767aaf94aa2a2bcfa0407fbb109}{Pelli}{P\bibinitperiod}{D.\bibnamedelimi G.}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bcdac767aaf94aa2a2bcfa0407fbb109}{Pelli}{P\bibinitperiod}{D.\bibnamedelimi G.}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bcdac767aaf94aa2a2bcfa0407fbb109}
+      \strng{fullhash}{bcdac767aaf94aa2a2bcfa0407fbb109}
+      \field{sortinit}{P}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{The {V}ideo{T}oolbox software for visual psychophysics: Transforming numbers into movies}
+      \field{journaltitle}{Spatial Vision}
+      \field{title}{The {V}ideo{T}oolbox software for visual psychophysics: Transforming numbers into movies}
+      \field{volume}{10}
+      \field{year}{1997}
+      \field{pages}{437\bibrangedash 442}
+    \endentry
+    \entry{Prince:etal:2012}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=a2b78a7dd873677c08fa14a0ae945ab5}{Prince}{P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eeea9583e9b472ac63858cc242737e63}{Brown}{B\bibinitperiod}{S.D.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=70a3e4442bebe8d4b73ef7cb0c945cbc}{Heathcote}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=a2b78a7dd873677c08fa14a0ae945ab5}{Prince}{P\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eeea9583e9b472ac63858cc242737e63}{Brown}{B\bibinitperiod}{S.D.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=70a3e4442bebe8d4b73ef7cb0c945cbc}{Heathcote}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{82c0b8d7afc2fefec9c9b247e34732c4}
+      \strng{fullhash}{467f537b878a518b0cb9fb0f24e71dfc}
+      \field{sortinit}{P}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{The design and analysis of state-trace experiments}
+      \field{journaltitle}{Psychological Methods}
+      \field{number}{1}
+      \field{title}{The design and analysis of state-trace experiments}
+      \field{volume}{17}
+      \field{year}{2012}
+      \field{pages}{78\bibrangedash 99}
+      \verb{file}
+      \verb Heathcote:etal:inpress.pdf
+      \endverb
+    \endentry
+    \entry{Rouder:etal:2008b}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=2,hash=768fe1ccf6add5fa45e98c358353d86f}{Rouder}{R\bibinitperiod}{J.\bibnamedelimi N.}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83734923eb53c8f2b4aa47cc07a0a08e}{Morey}{M\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=91fd351d1147860f05d523feb01400b7}{Cowan}{C\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f267283b2174f79453914518960d5d20}{Zwilling}{Z\bibinitperiod}{C.\bibnamedelimi E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d89912099b141540e335ce6853f2cc2b}{Morey}{M\bibinitperiod}{C.\bibnamedelimi C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=68e48d23b5dc56a692488dd1409f0993}{Pratte}{P\bibinitperiod}{M.\bibnamedelimi S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=2,hash=768fe1ccf6add5fa45e98c358353d86f}{Rouder}{R\bibinitperiod}{J.\bibnamedelimi N.}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=83734923eb53c8f2b4aa47cc07a0a08e}{Morey}{M\bibinitperiod}{R.\bibnamedelimi D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=91fd351d1147860f05d523feb01400b7}{Cowan}{C\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f267283b2174f79453914518960d5d20}{Zwilling}{Z\bibinitperiod}{C.\bibnamedelimi E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d89912099b141540e335ce6853f2cc2b}{Morey}{M\bibinitperiod}{C.\bibnamedelimi C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=68e48d23b5dc56a692488dd1409f0993}{Pratte}{P\bibinitperiod}{M.\bibnamedelimi S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0ca82eb407da6baec7d440289f298ea1}
+      \strng{fullhash}{c2d3d18c1cdf47a745659b78ef9d99dd}
+      \field{sortinit}{R}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{An Assessment of Fixed-Capacity Models of Visual Working Memory}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{title}{An Assessment of Fixed-Capacity Models of Visual Working Memory}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{pages}{5976\bibrangedash 5979}
+      \verb{file}
+      \verb Rouder:etal:2008b.pdf
+      \endverb
+    \endentry
+    \entry{Rouder:etal:2011}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=2,hash=9370c7c8f210d84a65c0841e81208a66}{Rouder}{R\bibinitperiod}{Jeffrey\bibnamedelima N.}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dde6557a7c0a80badcbabd7d5c436471}{Morey}{M\bibinitperiod}{Richard\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e77b532a95cc63420371261624f1387}{Morey}{M\bibinitperiod}{Candice\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=91fd351d1147860f05d523feb01400b7}{Cowan}{C\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=2,hash=9370c7c8f210d84a65c0841e81208a66}{Rouder}{R\bibinitperiod}{Jeffrey\bibnamedelima N.}{J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dde6557a7c0a80badcbabd7d5c436471}{Morey}{M\bibinitperiod}{Richard\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5e77b532a95cc63420371261624f1387}{Morey}{M\bibinitperiod}{Candice\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=91fd351d1147860f05d523feb01400b7}{Cowan}{C\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{177951d9bc5e796033bb18111aec8c9c}
+      \strng{fullhash}{6bdbb36e96b05be13dc3c55f98961ac8}
+      \field{sortinit}{R}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{How to Measure Working-Memory Capacity in the Change-Detection Paradigm}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{title}{How to Measure Working-Memory Capacity in the Change-Detection Paradigm}
+      \field{volume}{18}
+      \field{year}{2011}
+      \field{pages}{324\bibrangedash 330}
+      \verb{file}
+      \verb Rouder:etal:2011.pdf
+      \endverb
+    \endentry
+    \entry{Schooler:Engstler-Schooler:1990}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=936984687de39d1181f803959e2385b7}{Schooler}{S\bibinitperiod}{Jonathan\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=708648770c925d8aee30528b6ab734d7}{{Engstler-Schooler}}{E\bibinitperiod}{Tonya\bibnamedelima Y.}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=936984687de39d1181f803959e2385b7}{Schooler}{S\bibinitperiod}{Jonathan\bibnamedelima W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=708648770c925d8aee30528b6ab734d7}{{Engstler-Schooler}}{E\bibinitperiod}{Tonya\bibnamedelima Y.}{T\bibinitperiod\bibinitdelim Y\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2587ed7f6345f288f42ef7db953f79b2}
+      \strng{fullhash}{2587ed7f6345f288f42ef7db953f79b2}
+      \field{sortinit}{S}
+      \field{labelyear}{1990}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Verbal overshadowing of visual memories: Some things are better left unsaid}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{title}{Verbal overshadowing of visual memories: Some things are better left unsaid}
+      \field{volume}{22}
+      \field{year}{1990}
+      \field{pages}{36\bibrangedash 71}
+      \verb{file}
+      \verb Schooler:Engstler-Schooler:1990.pdf
+      \endverb
+    \endentry
+    \entry{Sperling:1967}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=dbb8ecc131a021d96d6890b5064aa135}{Sperling}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=dbb8ecc131a021d96d6890b5064aa135}{Sperling}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dbb8ecc131a021d96d6890b5064aa135}
+      \strng{fullhash}{dbb8ecc131a021d96d6890b5064aa135}
+      \field{sortinit}{S}
+      \field{labelyear}{1967}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Successive approximations to a model for short-term memory}
+      \field{journaltitle}{Acta Psychologica}
+      \field{title}{Successive approximations to a model for short-term memory}
+      \field{volume}{27}
+      \field{year}{1967}
+      \field{pages}{285\bibrangedash 292}
+    \endentry
+    \entry{Treisman:Zhang:2006}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=ff086e991ec43cf244971f33013ac423}{Treisman}{T\bibinitperiod}{Anne}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ac27c4113dfb3b302740f841d0f03b89}{Zhang}{Z\bibinitperiod}{Weiwei}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ff086e991ec43cf244971f33013ac423}{Treisman}{T\bibinitperiod}{Anne}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ac27c4113dfb3b302740f841d0f03b89}{Zhang}{Z\bibinitperiod}{Weiwei}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b1f5c791863c5924078a266d98ad4784}
+      \strng{fullhash}{b1f5c791863c5924078a266d98ad4784}
+      \field{sortinit}{T}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Location and binding in visual working memory.}
+      \field{journaltitle}{Memory \& Cognition}
+      \field{number}{8}
+      \field{title}{Location and binding in visual working memory.}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{1704\bibrangedash 1719}
+      \keyw{binding,location,Short Term Memory,Visual Memory,visual working memory}
+    \endentry
+    \entry{vanLamsweerde:Beck:2012}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=bdd0dd84f28e6e03491014889ce6c95c}{{van\bibnamedelimb Lamsweerde}}{v\bibinitperiod}{Amanda\bibnamedelima E.}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e88db3581a4e626db2185f46274fa1a}{Beck}{B\bibinitperiod}{Melissa\bibnamedelima R.}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=bdd0dd84f28e6e03491014889ce6c95c}{{van\bibnamedelimb Lamsweerde}}{v\bibinitperiod}{Amanda\bibnamedelima E.}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4e88db3581a4e626db2185f46274fa1a}{Beck}{B\bibinitperiod}{Melissa\bibnamedelima R.}{M\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7e5c1c933f002a7c684557604f5db604}
+      \strng{fullhash}{7e5c1c933f002a7c684557604f5db604}
+      \field{sortinit}{v}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Attention shifts or volatile representations: What causes binding deficits in visual working memory?}
+      \field{journaltitle}{Visual Cognition}
+      \field{number}{7}
+      \field{title}{Attention shifts or volatile representations: What causes binding deficits in visual working memory?}
+      \field{volume}{20}
+      \field{year}{2012}
+      \field{pages}{771\bibrangedash 792}
+    \endentry
+    \entry{Woodman:Vogel:2005}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=afb24ee318b283aba06f150ae302f938}{Woodman}{W\bibinitperiod}{Geoffrey\bibnamedelima F.}{G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f64734bcf21e4826926fb7516ac16ad6}{Vogel}{V\bibinitperiod}{Edward\bibnamedelima K.}{E\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=afb24ee318b283aba06f150ae302f938}{Woodman}{W\bibinitperiod}{Geoffrey\bibnamedelima F.}{G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f64734bcf21e4826926fb7516ac16ad6}{Vogel}{V\bibinitperiod}{Edward\bibnamedelima K.}{E\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d256115e88151b0bf8b7d483c46dbc6c}
+      \strng{fullhash}{d256115e88151b0bf8b7d483c46dbc6c}
+      \field{sortinit}{W}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Fractionating Working Memory: Consolidation and Maintenance Are Independent Processes.}
+      \field{journaltitle}{Psychological Science}
+      \field{number}{2}
+      \field{title}{Fractionating Working Memory: Consolidation and Maintenance Are Independent Processes.}
+      \field{volume}{16}
+      \field{year}{2005}
+      \field{pages}{106\bibrangedash 113}
+      \keyw{consolidation process,maintenance process,Short Term Memory,Visual Memory,visual working memory}
+    \endentry
+    \entry{Woodman:Vogel:2008}{article}{}
+      \name{labelname}{2}{}{%
+        {{uniquename=0,hash=afb24ee318b283aba06f150ae302f938}{Woodman}{W\bibinitperiod}{Geoffrey\bibnamedelima F.}{G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f64734bcf21e4826926fb7516ac16ad6}{Vogel}{V\bibinitperiod}{Edward\bibnamedelima K.}{E\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=afb24ee318b283aba06f150ae302f938}{Woodman}{W\bibinitperiod}{Geoffrey\bibnamedelima F.}{G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f64734bcf21e4826926fb7516ac16ad6}{Vogel}{V\bibinitperiod}{Edward\bibnamedelima K.}{E\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d256115e88151b0bf8b7d483c46dbc6c}
+      \strng{fullhash}{d256115e88151b0bf8b7d483c46dbc6c}
+      \field{sortinit}{W}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{year}
+      \field{labeltitle}{Selective storage and maintenance of an object's features in visual working memory}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{number}{1}
+      \field{title}{Selective storage and maintenance of an object's features in visual working memory}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{223\bibrangedash 229}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
