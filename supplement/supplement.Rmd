@@ -1,7 +1,7 @@
 ---
 title: "Supplement to: Opportunity for verbalization does not improve visual change  detection performance: A state-trace analysis"
 author: "Richard D. Morey and Florian Sense"
-date: "May/June 2015"
+date: "Last compiled: `r Sys.Date()`"
 output:
   pdf_document:
     toc: yes
@@ -17,7 +17,7 @@ A PDF of the paper can be downloaded here.
 
 ## Abstract
 
-> Experiments suggest that there is a strong tendency to verbally recode visually-presented information, and that in some cases verbal recoding can boost memory performance.  According to multi-component models of working memory, memory performance is increased because task-relevant information is maintained in two codes. The possibility of dual encoding is problematic if the goal is to measure capacity for visual information exclusively. This is why articulatory suppression is typically used with visual change detection tasks specifically to prevent verbalization of visual stimuli. We present evidence from a large experiment that suggests that articulatory suppression has no discernable effect on performance in a visual change-detection task. Neither a descriptive nor a state-trace analysis revealed any complex relationship between suppression, presentation type, and performance. There is no evidence that verbal recoding was a strategy used by the participants in this task. We conclude that in typical visual change detection experiments, pre-cautionary articulatory suppression is unnecessary.
+> Evidence suggests that there is a tendency to verbally recode visually-presented information, and that in some cases verbal recoding can boost memory performance. According to multi-component models of working memory, memory performance is increased because task-relevant information is simultaneously maintained in two codes. The possibility of dual encoding is problematic if the goal is to measure capacity for visual information exclusively. To counteract this possibility, articulatory suppression is frequently used with visual change detection tasks specifically to prevent verbalization of visual stimuli. But is this precaution always necessary? There is little reason to believe that concurrent articulation affects performance in typical visual change detection tasks, suggesting that verbal recoding might not be likely to occur in this paradigm, and if not, precautionary articulatory suppression would not always be necessary. We present evidence confirming that articulatory suppression has no discernible effect on performance in a typical visual change-detection task in which abstract patterns are briefly presented. A comprehensive analysis using both descriptive statistics and Bayesian state-trace analysis revealed no evidence for any complex relationship between articulatory suppression and performance that would be consistent with a verbal recoding explanation. Instead, the evidence favors the simpler explanation that verbal strategies were either not deployed in the task or, if they were, were not effective in improving performance, and thus have no influence on visual working memory as measured during visual change detection. We conclude that in visual change detection experiments in which abstract visual stimuli are briefly presented, pre-cautionary articulatory suppression is unnecessary.
 
 # Data
 
@@ -197,8 +197,8 @@ segments(effDF[effDF$seq == "sequential","eff"],
 points(effDF[effDF$seq == "sequential","eff"], effDF[effDF$seq == "simultaneous","eff"], 
  pch = as.character(effDF[effDF$seq == "sequential","ss"]))
 abline(0,1, lty=2)
-text(-.24,.24,adj=0,"Simultaneous advantage (28/45)")
-text(.24,-.24,adj=1,"Sequential advantage (17/45)")
+text(-.24,.24,adj=0,"Simultaneous advantage (28/45)", col="darkgray")
+text(.24,-.24,adj=1,"Sequential advantage (17/45)", col="darkgray")
 
 
 sum((effDF[effDF$seq == "sequential","eff"] - effDF[effDF$seq == "simultaneous","eff"]) > 0)
@@ -216,12 +216,12 @@ par(las=1, bty="n")
 matplot(effect.by.pres, ylab="Effect (prop. correct; seq - sim)", 
         xlab="Block (2 per session)",ty='b',pch=c("2","4","8"),ylim=c(-.21,.21), col=1)
 abline(h=0,col="gray")
-text(10,.2,"Silent advantage bigger for sequential presentation",adj=1, col="gray")
-text(10,-.2,"Silent advantage bigger for simultaneous presentation",adj=1, col="gray")
+text(10,.2,"Silent advantage bigger for sequential presentation",adj=1, col="darkgray")
+text(10,-.2,"Silent advantage bigger for simultaneous presentation",adj=1, col="darkgray")
 ```
 
 
-## Figure 4: Individual state-trace plots and Bayes factors
+## Figure 4: Individual state-trace plots
 
 Make plots and compute Bayes factors.
 
@@ -347,11 +347,15 @@ t(apply(ords,1,function(row,labs) labs[row],labs=simLab))
 ```
 
 
+## More on Bayes factors and a traditional ANOVA for comparison
+
+
 ### More on Bayes factors
 
 It must be noted that the Bayes factors described in this paper are Bayes factors favoring the monotonicity of the observed points. Technically, the null hypothesis in state-trace analysis is that all possible points are so ordered, but testing this hypothesis would require much stronger parametric assumptions. The current approach trades strong assumptions for weaker conclusions.
 
 An additional plot, showing only the Bayes factors (not included in the paper).
+
 ```{r}
 BF = sort(BF)
 newNum = match(names(BF),unique(data$subjNumber))
@@ -359,4 +363,23 @@ par(las=1)
 q = barplot(BF,horiz=TRUE,axes=FALSE,xlab="BF in favor of monotonicity",ylab="Participant",log="x",names.arg=rep("",length(BF)),col="lightblue",xlim=c(1,10000))
 axis(1)
 axis(2,at=q,lab=newNum,tick=FALSE)
+```
+
+
+
+### Traditional ANOVA
+
+To compare our results and conclusions to those obtained with more traditional methods, we include a conventional repeated measures ANOVA here:
+
+```{r}
+summary(aov(d ~ art * seq * ss + Error(sub / (art * seq * ss)), combinedDat))
+```
+
+
+# Session information
+
+For maximum reproducibility.
+
+```{r}
+print(sessionInfo(), locale = FALSE)
 ```
