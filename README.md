@@ -4,4 +4,4 @@ The supplementary material is located in the folder `/supplement`. There, you ca
 
 For any questions, please contact either Florian Sense or Richard D. Morey.
 
-**The manuscript of the paper is the file** `Sense_etal_submitted.pdf`.
+**The manuscript of the paper is the file** `Sense_etal_BRM_revised.pdf`.
